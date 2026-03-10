@@ -15,7 +15,7 @@ const HeroSection = () => {
         </div>
 
         <h1 className="text-5xl md:text-7xl font-black tracking-tight leading-[0.95] mb-6">
-          <span className="gradient-text">DEX Cona Architecture</span>
+          <span className="gradient-text">DEX Architecture Comparison</span>
           <br />
           <span className="text-foreground">& Cost Analysis</span>
         </h1>
