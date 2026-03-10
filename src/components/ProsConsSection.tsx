@@ -19,6 +19,7 @@ const protocols: Protocol[] = [
       "Licensing restrictions",
       "High security risk (Singleton bug risk)",
       "Fragmented liquidity across hooks",
+      "Will need to audit"
     ],
   },
   {
@@ -28,6 +29,7 @@ const protocols: Protocol[] = [
       'Fastest "Time-to-Market"',
       "Dynamic fee spikes protect LPs from volatility",
       "Pre-audited",
+      "Pre Build plug-in's (MEV, Limit orders, no fee wallets, etcs"
     ],
     cons: [
       "Perpetual revenue tax to the Algebra team",
