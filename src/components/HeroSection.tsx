@@ -24,19 +24,6 @@ const HeroSection = () => {
           In the 2026 DeFi landscape, the choice of DEX engine defines your protocol's ceiling. 
           Architecture is no longer just "code"—it is your <span className="text-primary font-medium">primary competitive strategy</span>.
         </p>
-
-        <div className="flex gap-4 mt-10 font-mono text-xs text-muted-foreground">
-          <div className="flex items-center gap-2">
-            <div className="w-2 h-2 rounded-full bg-primary animate-pulse" />
-            <span>Uniswap V4</span>
-          </div>
-          <div className="flex items-center gap-2">
-            <div className="w-2 h-2 rounded-full" style={{ background: 'hsl(262, 60%, 58%)' }} />
-            <span>Algebra Integral</span>
-          </div>
-          <div className="flex items-center gap-2">
-            <div className="w-2 h-2 rounded-full" style={{ background: 'hsl(38, 92%, 58%)' }} />
-            <span>Carbon DeFi</span>
           </div>
         </div>
       </div>
