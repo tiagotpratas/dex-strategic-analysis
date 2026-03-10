@@ -6,48 +6,48 @@
 
 @layer base {
   :root {
-    --background: 220 20% 7%;
-    --foreground: 210 20% 92%;
+    --background: 210 20% 98%;
+    --foreground: 220 20% 12%;
 
-    --card: 220 18% 10%;
-    --card-foreground: 210 20% 92%;
+    --card: 0 0% 100%;
+    --card-foreground: 220 20% 12%;
 
-    --popover: 220 18% 10%;
-    --popover-foreground: 210 20% 92%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 220 20% 12%;
 
-    --primary: 174 72% 50%;
-    --primary-foreground: 220 20% 7%;
+    --primary: 174 72% 38%;
+    --primary-foreground: 0 0% 100%;
 
-    --secondary: 220 16% 16%;
-    --secondary-foreground: 210 20% 80%;
+    --secondary: 210 16% 93%;
+    --secondary-foreground: 220 16% 30%;
 
-    --muted: 220 14% 14%;
-    --muted-foreground: 215 12% 52%;
+    --muted: 210 14% 94%;
+    --muted-foreground: 215 12% 45%;
 
-    --accent: 174 72% 50%;
-    --accent-foreground: 220 20% 7%;
+    --accent: 174 72% 38%;
+    --accent-foreground: 0 0% 100%;
 
-    --destructive: 0 72% 55%;
-    --destructive-foreground: 210 40% 98%;
+    --destructive: 0 72% 50%;
+    --destructive-foreground: 0 0% 100%;
 
-    --border: 220 14% 18%;
-    --input: 220 14% 18%;
-    --ring: 174 72% 50%;
+    --border: 214 18% 88%;
+    --input: 214 18% 88%;
+    --ring: 174 72% 38%;
 
     --radius: 0.5rem;
 
-    --chart-1: 174 72% 50%;
-    --chart-2: 262 60% 58%;
-    --chart-3: 38 92% 58%;
+    --chart-1: 174 72% 38%;
+    --chart-2: 262 55% 52%;
+    --chart-3: 38 90% 50%;
 
-    --sidebar-background: 220 18% 10%;
-    --sidebar-foreground: 210 20% 80%;
-    --sidebar-primary: 174 72% 50%;
-    --sidebar-primary-foreground: 220 20% 7%;
-    --sidebar-accent: 220 16% 16%;
-    --sidebar-accent-foreground: 210 20% 80%;
-    --sidebar-border: 220 14% 18%;
-    --sidebar-ring: 174 72% 50%;
+    --sidebar-background: 210 16% 96%;
+    --sidebar-foreground: 220 16% 30%;
+    --sidebar-primary: 174 72% 38%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 210 14% 94%;
+    --sidebar-accent-foreground: 220 16% 30%;
+    --sidebar-border: 214 18% 88%;
+    --sidebar-ring: 174 72% 38%;
 
     --font-heading: 'Inter', sans-serif;
     --font-mono: 'JetBrains Mono', monospace;
