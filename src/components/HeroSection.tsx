@@ -22,7 +22,7 @@ const HeroSection = () => {
 
         <p className="text-lg md:text-xl text-muted-foreground max-w-2xl leading-relaxed">
           In the 2026 DeFi landscape, the choice of DEX engine defines your protocol's ceiling. 
-          Architecture is no longer just "code"—it is your <span className="text-primary font-medium">primary competitive strategy</span>.
+          Architecture is no longer just "code". It is your <span className="text-primary font-medium">primary competitive strategy</span>.
         </p>
       </div>
     </section>
