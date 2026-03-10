@@ -9,7 +9,7 @@ interface Protocol {
 
 const protocols: Protocol[] = [
   {
-    name: "Uniswap V4",
+    name: "Uniswap",
     color: "hsl(var(--primary))",
     pros: [
       "Industry standard, massive brand moat",
