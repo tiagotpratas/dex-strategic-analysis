@@ -17,7 +17,7 @@ const FinancialBreakdown = () => {
             <thead>
               <tr className="border-b border-border">
                 <th className="text-left py-4 pr-6 text-muted-foreground font-medium">Cost Category</th>
-                <th className="text-left py-4 px-6 text-primary font-semibold">Uniswap V4</th>
+                <th className="text-left py-4 px-6 text-primary font-semibold">Uniswap</th>
                 <th className="text-left py-4 px-6 font-semibold" style={{ color: 'hsl(262, 60%, 58%)' }}>Algebra Integral</th>
                 <th className="text-left py-4 pl-6 font-semibold" style={{ color: 'hsl(38, 92%, 58%)' }}>Carbon DeFi</th>
               </tr>

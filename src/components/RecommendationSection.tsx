@@ -9,7 +9,7 @@ const recommendations = [
   },
   {
     target: "For R&D / Innovators",
-    protocol: "Uniswap V4",
+    protocol: "Uniswap",
     color: "hsl(var(--primary))",
     description: "Build experimental financial primitives (e.g., credit-score-based swapping).",
   },
