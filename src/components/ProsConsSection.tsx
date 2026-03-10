@@ -13,9 +13,8 @@ const protocols: Protocol[] = [
     color: "hsl(var(--primary))",
     pros: [
       "Industry standard, massive brand moat",
-      'v4 - "Hook" ecosystem allows for DeFi composability with other DNAx products,
-      'Super battle tested'
-    
+      '"Hook" ecosystem allows for DeFi composability with other DNAx products',
+      "Super battle tested",
     ],
     cons: [
       "Licensing restrictions",
