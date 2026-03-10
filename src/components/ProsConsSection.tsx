@@ -13,11 +13,12 @@ const protocols: Protocol[] = [
     color: "hsl(var(--primary))",
     pros: [
       "Industry standard, massive brand moat",
-      '"Hook" ecosystem allows for KYC/Oracle-based pools',
+      'v4 - "Hook" ecosystem allows for DeFi composability with other DNAx products,
+      'Super battle tested'
+    
     ],
     cons: [
       "Licensing restrictions",
-      "High security risk (Singleton bug risk)",
       "Fragmented liquidity across hooks",
       "Will need to audit"
     ],
@@ -40,14 +41,14 @@ const protocols: Protocol[] = [
     name: "Carbon DeFi",
     color: "hsl(38, 92%, 58%)",
     pros: [
-      "Zero slippage on limit orders",
-      "Solves Impermanent Loss",
-      "Native MEV protection",
+      "Fast ''Time-to-market''",
     ],
     cons: [
       "Niche liquidity",
       "Steeper learning curve for retail users",
       "UI-intensive logic",
+      'Lacks industry standard reporting metrics'
+
     ],
   },
 ];
