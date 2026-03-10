@@ -1,6 +1,6 @@
 const data = [
   { feature: "Architecture", uniswap: "Singleton (All-in-one)", algebra: "Modular Plugins", carbon: "Asymmetrical Curves" },
-  { feature: "Customization", uniswap: "Hooks (Infinite logic)", algebra: "Ready-made Plugins", carbon: "UI-based Strategies" },
+  { feature: "Customization", uniswap: "v3 + v4 Hooks (Infinite logic)", algebra: "Ready-made Plugins", carbon: "UI-based Strategies" },
   { feature: "GTM Speed", uniswap: "Slow (High Dev effort)", algebra: "Fast (Plug-and-play)", carbon: "Moderate (Math-heavy)" },
   { feature: "Gas Efficiency", uniswap: "Best for Multi-hop", algebra: "Optimized for L2/L3", carbon: "Strategy Dependent" },
 ];

@@ -1,9 +1,10 @@
 import { SectionHeader } from "./ComparisonMatrix";
 
 const costs = [
-  { category: "Licensing", uniswap: "BUSL-1.1 (Needs License)", algebra: "15% Fee Share Tax", carbon: "Open Source (Core)" },
-  { category: "Audit Fees", uniswap: "$50k – $150k+", algebra: "$10k – $20k", carbon: "$30k – $60k" },
+  { category: "Licensing", uniswap: "BUSL-1.1 (Needs License)", algebra: "15k Lincense Fee", carbon: "Open Source (Core)" },
+  { category: "Audit Fees", uniswap: "$50k – $150k+", algebra: "$0", carbon: "$0" },
   { category: "Dev Hours", uniswap: "High (Senior Solidity)", algebra: "Low (Implementation)", carbon: "Medium (Strategy UI)" },
+  { category: "Fee's to Protocol", uniswap: "0", algebra: "3% Perpetual", carbon: "360k a year" },
 ];
 
 const FinancialBreakdown = () => {
